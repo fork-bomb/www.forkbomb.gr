@@ -1,4 +1,4 @@
 ### The front page of forkbomb.gr
 
-![forkbomb-front-page]( forkbomb-front.png "Forkbomb Front Page")
+![forkbomb-front-page]( img/forkbomb-front.png "Forkbomb Front Page")
 
